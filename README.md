@@ -21,5 +21,3 @@ C++
 |MATH1510          |`Calculus for Engineer`            |No            |
 |ENGG1110          |`Problem Solving `|No|
 
-![image](https://github.com/csci3250-2019/Student-1155119078/blob/master/Capture.PNG)
-
